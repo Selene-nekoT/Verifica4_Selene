@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Verifica4_Selene.Studente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAIAAAABAAAAAoAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Studente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Verifica4_Selene.Immatricolazione">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Immatricolazione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Verifica4_Selene.CorsoDiLaurea">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CorsoDiLaurea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Verifica4_Selene.Corso">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Corso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Verifica4_Selene.Esame">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Esame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
